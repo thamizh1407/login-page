@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(rgb(65, 68, 221), rgb(195, 50, 214));
+  }
+
+  #polymer-logo{
+      width:50px;
+  }
+  .wrapper{
+      height:700px;
+  }
+
+  .form-contro {
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+    position: relative;
+
+}
+
+.form-contro.error input {
+	border-color: #e74c3c;
+}
+
+.form-contro small {
+	color: #e74c3c;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	visibility: hidden;
+}
+
+.errorMsg{
+    color:red;
+    margin:2px;
+}
+#laptop{
+    width:62%;
+}
+#icon{
+    width:20px;
+}
+#image{
+    width:20px;
+}
+
+
+
+
+
+
+
+
+
